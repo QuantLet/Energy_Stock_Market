@@ -3,7 +3,7 @@ Name of QuantLet : Energy_Stock_Market
 
 Published in : 
 
-Description : 'Data for the paper "The link between energy prices and stock markets in European Union countries".'
+Description : 'Data for the paper "The link between energy prices and stock markets in European Union countries". The initial analysis was done in Ox-Metrics, this repository contains Python implementation.'
 
 Keywords : 'energy market, capital market, DCC-GARCH, TVP-VAR, Markov-Switching'
 
